@@ -39,7 +39,7 @@ class AquaHeader extends HTMLElement {
                 </div>
 
                 <a href="/contato/">CONTATO</a>
-                <a href="#" class="btn" style="padding: 10px 20px; margin-top: 5px;">LOJA VIRTUAL</a>
+                <a href="/loja/" class="btn" style="padding: 10px 20px; margin-top: 5px;">LOJA VIRTUAL</a>
             </nav>
         </div>
     </header>
