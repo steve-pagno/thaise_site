@@ -10,7 +10,7 @@ class AquaHeader extends HTMLElement {
     <div class="top-bar">
         <div class="container">
             <span>Nossos especialistas estão esperando por você.</span>
-            <span>Fale conosco: <a href="tel:+5521981416653">(21) 98141-6653</a></span>
+            <span>Fale conosco: <a href="tel:+5521995571452">(21) 99557-1452</a></span>
         </div>
     </div>
 
@@ -75,7 +75,7 @@ class AquaFooter extends HTMLElement {
                 <h4>CONTATO</h4>
                 <ul>
                     <li>Telefone: <a href="tel:+552126588496">(21) 2658-8496</a></li>
-                    <li>WhatsApp: <a href="https://wa.me/5521981416653" target="_blank">(21) 98141-6653</a></li>
+                    <li>WhatsApp: <a href="https://wa.me/5521995571452" target="_blank">(21) 99557-1452</a></li>
                     <li>E-mail: <a href="mailto:contato@aquaengenharia.com.br">contato@aquaengenharia.com.br</a></li>
                 </ul>
                 <div class="redes-sociais">
